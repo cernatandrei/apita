@@ -1,4 +1,5 @@
 <?php
+
 // Singleton !!! o singura conexiune la DB
 class Db {
     private static $connection;
